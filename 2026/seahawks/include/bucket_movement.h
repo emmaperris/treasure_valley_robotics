@@ -1,0 +1,2 @@
+#define PULLING_SERVO 1
+#define MOVING_SERVO 3
